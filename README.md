@@ -22,6 +22,18 @@ Once the data has been extracted on CSV, it was possible to further evaluate the
 Moreover, due to fluctuations in yearly averages, the data was evaluated considering moving averages (7-years) to provide smoother results during data visualization.
 
 ## Data Visualization
-Once the dataset was ready, it was time to plug n play. The chart shows a comparison between the global and local temperature set across the years.
+Once the dataset was ready, it was time to plug n play. The chart shows a comparison between the global and local moving average temperature set across the years.
+
 ![image](https://user-images.githubusercontent.com/67369959/99966745-d0c08b80-2da7-11eb-89a9-0f9af6f4cb99.png)
+
+## Observations
+•	As we see that my city’s moving average is very high comparing to the glob, Riyadh’s moving average temperature lies between 24 and 27, but the global moving average lies between 7 and 10 which is very low comparing to Riyadh.
+
+•	Riyadh’s moving average is going up almost all the years, but the global moving average is almost consistent.
+
+
+•	At the begging of the 90s both my city and the global temperatures went higher, but as we see the globe’s temperature went only one degree higher, but Riyadh went higher for almost two degrees. 
+
+•	As the study shows that the moving temperature average is going up almost one degree every 10 years for both the globe and my city, I expect the average to move higher at the end of this decade.
+
 
