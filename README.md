@@ -23,4 +23,5 @@ Moreover, due to fluctuations in yearly averages, the data was evaluated conside
 
 ## Data Visualization
 Once the dataset was ready, it was time to plug n play. The chart shows a comparison between the global and local temperature set across the years.
+![image](https://user-images.githubusercontent.com/67369959/99966745-d0c08b80-2da7-11eb-89a9-0f9af6f4cb99.png)
 
